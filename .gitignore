@@ -1,0 +1,5 @@
+node_modules/
+.env
+scripts/seed.js
+scripts/migratePasswords.js
+scripts/test-shortage.js
